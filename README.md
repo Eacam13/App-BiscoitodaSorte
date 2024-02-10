@@ -10,7 +10,7 @@ Para executar este aplicativo localmente, siga estas etapas:
 
 2. Clone este repositório para o seu computador:
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone  https://github.com/Eacam13/App-BiscoitodaSorte
 
 ## Navegue até o diretório do projeto:
 cd nome-do-seu-app
