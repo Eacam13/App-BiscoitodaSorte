@@ -10,7 +10,6 @@ Para executar este aplicativo localmente, siga estas etapas:
 
 2. Clone este repositório para o seu computador:
 
-```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
 
 ## Navegue até o diretório do projeto:
@@ -28,45 +27,6 @@ React
 React Native
 React Native Vector Icons
 Styled Components
-Certifique-se de que estas dependências estejam instaladas antes de executar o aplicativo.
-
-
-Aqui está um exemplo de README.md para o seu aplicativo React Native Expo com TypeScript:
-
-markdown
-Copy code
-# Nome do Seu Aplicativo
-
-Este é um aplicativo desenvolvido com React Native Expo e TypeScript.
-
-## Instalação
-
-Para executar este aplicativo localmente, siga estas etapas:
-
-1. Certifique-se de ter o Node.js e o npm instalados em sua máquina. Você pode baixá-los e instalá-los a partir do [site oficial do Node.js](https://nodejs.org/).
-
-2. Clone este repositório para o seu computador:
-
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-Navegue até o diretório do projeto:
-bash
-Copy code
-cd nome-do-seu-app
-Instale as dependências do projeto usando npm:
-bash
-Copy code
-npm install
-Dependências
-Este projeto utiliza as seguintes dependências:
-
-Expo
-Expo Status Bar
-React
-React Native
-React Native Vector Icons
-Styled Components
-
 Certifique-se de que estas dependências estejam instaladas antes de executar o aplicativo.
 
 # Executando o Aplicativo
